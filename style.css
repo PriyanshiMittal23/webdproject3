@@ -1,0 +1,172 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    color:black;
+    position: static;
+    top: 0px;
+    left: 0px;
+    justify-content: center;
+    align-items: center;
+}
+ul{
+    list-style-type: none;
+    
+}
+li{
+    float: left;
+    display: block;
+    padding: 10px;
+}
+.image{
+    padding-right: 20px;
+    font-weight: bold;
+    font-size: larger;
+    position: absolute;
+    left: 150px;
+   
+}
+li:hover{
+    color: orange;
+}
+.banner{
+    background-image: url("OIP.jpeg");
+    text-align: center;
+    color:blue
+    justify-content: center;
+    padding: 25px;
+}
+.book1{
+    width: 90px;
+   
+    color:  black;
+    border: solid;
+    border-color: black;
+    padding-left: 10px;
+    padding-right:10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 500px;
+    border-radius: 5px;
+}
+.book1:hover{
+    background-color: orange;
+    color:white;
+    border:solid;
+    border-color: black;
+}
+.div2{
+    font-display: inline-block;
+}
+.div3{
+    height:280px;
+    width: 800px;
+    margin-left: 200px;
+    margin-top: 80px;
+
+
+}
+.div3:hover{
+    border:solid;
+    border-color: black;
+    border-radius: 10px;
+
+}
+.img1{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-left: 300px;
+    
+}
+.john{
+    color:blue;
+    margin-left: 310px;
+}
+.p{
+    margin-left: 150px;
+}
+.flex2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 80px;
+}
+.v1{
+    height: 250px;
+    width: 300px;
+}
+.v2{
+    height: 250px;
+    width: 300px;
+}
+.v3{
+    height: 250px;
+    width: 300px;
+}
+
+.v12{
+    color:rgb(2, 2, 48);
+    font-weight: lighter;
+    padding-left: 5px;
+    padding-right: 10px;
+
+}
+.book0{
+    width: 90px;
+   
+    color:  black;
+    border: solid;
+    border-color: black;
+    padding-left: 10px;
+    padding-right:10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.book0:hover{
+    background-color: orange;
+    color:white;
+    border:solid;
+}
+.flex3{
+    display: flex;
+    flex-direction: row;
+}
+.hi{
+    margin-left: 80px;
+}
+.be{
+    background-color: grey;
+    color: rgb(2, 2, 39);
+}
+.div1{
+    font-size: large;
+    font-weight: bolder;
+    margin-left: 500px;
+    padding-top: 80px;
+    display: inline-block;
+    height: 40px;
+}
+.div4{
+    display: inline-block;
+    font-size: large;
+    font-weight: bolder;
+    margin-left: 500px;
+    margin-top: 20px;
+
+}
+.div2{
+    background-color: orange;
+    display: inline-block;
+    
+}
+.div5{
+    background-color: orange;
+    display: inline-block;
+    
+}
+   
+    
